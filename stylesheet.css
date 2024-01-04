@@ -1,0 +1,56 @@
+Header {
+    text-align: center; 
+    background-color: rgba(28, 138, 77, 0.6);
+    color: whitesmoke;
+    padding: 25px, 0px, 0px; 
+    margin-top: 0px;
+    font-weight: 800;
+    border: solid black 4px; 
+}
+
+h1 {
+    font-size: 45px;
+    font-family: "Space Mono";
+}
+
+h4 {
+    font-family: helvetica;
+}
+
+body {
+    background-color: rgba(255,190,190,0.3);
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+    font-family: Helvetica;
+}
+
+th {
+    background-color: rgba(28, 138, 77, 0.6);
+    border: solid 2px; 
+}
+
+.TagTable {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td {
+    font-size: 12px; 
+    background-color: aliceblue;
+    text-align: center;
+    border: solid 2px;
+    padding: 4px;
+    font-weight: bolder;
+    font-family: helvetica;
+}
+
+.hypertext {
+    font-family: "Space Mono", sans-serif;
+    font-size: 12px; 
+    font-weight: bolder;
+    background-color: lightblue;
+}
+
